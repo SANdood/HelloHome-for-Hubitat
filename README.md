@@ -1,4 +1,4 @@
-# HelloHome-for-Hubitat
+# Hello Home for Hubitat
 An implementation of a Hello Home log display for Hubitat, with Notifications and Dashboard support.
 
 ### Features
